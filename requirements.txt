@@ -6,3 +6,4 @@ rasterio
 requests
 pandas
 geopandas
+pysal
