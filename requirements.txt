@@ -4,3 +4,5 @@ mercantile
 pillow
 rasterio
 requests
+pandas
+geopandas
